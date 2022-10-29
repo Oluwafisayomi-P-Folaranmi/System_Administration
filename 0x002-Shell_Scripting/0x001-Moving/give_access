@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo 'What is your file name?'
+
+read = file_name
+
+chmod 755 ./to_folder/0x06-pointers_arrays_strings/$file_name
+
+# This

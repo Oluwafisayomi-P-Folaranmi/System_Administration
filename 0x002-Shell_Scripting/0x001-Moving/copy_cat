@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "What is the file name?"
+
+read file_name
+
+mv ./from_folder/0x06-pointers_arrays_strings/$file_name ./to_folder/0x06-pointers_arrays_strings
+
+echo 'Fola, \n'
+
+echo './give_access'
+
+# git add .
+# git commit -m "Commit message"
+# git push.
+
